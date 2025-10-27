@@ -37,8 +37,8 @@ It highlights:
 📸 Dashboard Previews :-
 You can check out the dashboard visuals below 👇
 
-Dashboard 1: ![image alt](http://url/to/img.png](https://github.com/Atharva090211/IndianColleges_Dashboard/blob/3bbe734aa3f642bfc35a434a8ecf47fdc4e78366/State-Wise%20College%20Distribution.png)
+Dashboard 1: ![image alt](https://github.com/Atharva090211/IndianColleges_Dashboard/blob/3bbe734aa3f642bfc35a434a8ecf47fdc4e78366/State-Wise%20College%20Distribution.png)
 
-Dashboard 2:  ![image alt](http://url/to/img.png](https://github.com/Atharva090211/IndianColleges_Dashboard/blob/3bbe734aa3f642bfc35a434a8ecf47fdc4e78366/Detailed-Overview.png) 
+Dashboard 2:  ![image alt](https://github.com/Atharva090211/IndianColleges_Dashboard/blob/3bbe734aa3f642bfc35a434a8ecf47fdc4e78366/Detailed-Overview.png) 
 
 This project combines data analysis, visualization, and storytelling to make complex information simple, engaging, and actionable. 💬📈
