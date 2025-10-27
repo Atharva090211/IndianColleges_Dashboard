@@ -34,4 +34,9 @@ It highlights:
 ✅ Simplified exploration of college data
 ✅ Clear insights into distribution and contact details
 
+📸 Dashboard Previews :-
+You can check out the dashboard visuals below 👇
+Dashboard 1: 
+Dashboard 2: 
+
 This project combines data analysis, visualization, and storytelling to make complex information simple, engaging, and actionable. 💬📈
