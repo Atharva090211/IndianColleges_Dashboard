@@ -7,6 +7,7 @@ The main goal was to make huge amounts of information — like college names, lo
 The dashboard turns raw Excel data into meaningful insights, helping users quickly identify college distribution, district coverage, and communication readiness. 📊✨
 
 💡 Dashboards Overview :-
+
 🔹 Dashboard 1 – Detailed Overview
 This dashboard gives a clear view of all colleges with their contact information, district details, and state-level filters.
 It includes:
